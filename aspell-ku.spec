@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Kurdish dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik kurdyjski (lista s³ów) dla aspella.
+S³ownik (lista s³ów) kurdyjski dla aspella.
 
 %prep
 %setup -q -n aspell5-ku-%{version}-%{subv}
