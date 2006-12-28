@@ -1,14 +1,14 @@
 Summary:	Kurdish dictionary for aspell
 Summary(pl):	S³ownik kurdyjski dla aspella
 Name:		aspell-ku
-Version:	0.12
-%define	subv	0
+Version:	0.20
+%define	subv	1
 Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/ku/aspell5-ku-%{version}-%{subv}.tar.bz2
-# Source0-md5:	c6e4c3f403d4fc8326dc8f20d52e180e
+# Source0-md5:	8d714169b131fc6ca8a783c6acc471ae
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 2:0.50.0
 Requires:	aspell >= 2:0.50.0
