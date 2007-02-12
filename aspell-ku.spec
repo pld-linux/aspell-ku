@@ -1,5 +1,5 @@
 Summary:	Kurdish dictionary for aspell
-Summary(pl):	S≥ownik kurdyjski dla aspella
+Summary(pl.UTF-8):   S≈Çownik kurdyjski dla aspella
 Name:		aspell-ku
 Version:	0.20
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Kurdish dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik kurdyjski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik kurdyjski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-ku-%{version}-%{subv}
