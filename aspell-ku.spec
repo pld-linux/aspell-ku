@@ -1,5 +1,5 @@
 Summary:	Kurdish dictionary for aspell
-Summary(pl.UTF-8):   Słownik kurdyjski dla aspella
+Summary(pl.UTF-8):	Słownik kurdyjski dla aspella
 Name:		aspell-ku
 Version:	0.20
 %define	subv	1
