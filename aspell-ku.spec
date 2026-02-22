@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik kurdyjski dla aspella
 Name:		aspell-ku
 Version:	0.20
 %define	subv	1
-Release:	2
+Release:	3
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
